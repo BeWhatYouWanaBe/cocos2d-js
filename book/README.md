@@ -21,4 +21,3 @@
 
 2、第66页 stopAllAction 应该是 stopAllActions
 
-hahah
